@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <img src="banner.png" width="100%">
+  <img src="banner.png" width="400">
 </p>
 
 ## 👨‍💻 About Me
