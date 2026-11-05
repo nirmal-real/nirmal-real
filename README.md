@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on web development projects
 - 🌱 I’m learning React, Node.js, and modern technologies
 - 💬 Ask me about JavaScript, React, and Web Development
-- 📫 Reach me at: nil.barman@gmail.com
+- 📫 Reach me at: nilbarman1998@gmail.com
 
 ## 🛠️ Skills
 
